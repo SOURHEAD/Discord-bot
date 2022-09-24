@@ -1,2 +1,2 @@
-# Poll-Bot
-A poll bot made using python.
+# JOOS-Bot
+A JSDC general bot made using python.
